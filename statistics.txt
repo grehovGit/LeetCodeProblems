@@ -13,3 +13,7 @@
 162 Find Peak Element                           ++
 209 Minimum Size Subarray Sum                   ++
 268 Missing Number                              +
+
+####################################################
+
+120 Triangle                                    ++  11.12.2019
